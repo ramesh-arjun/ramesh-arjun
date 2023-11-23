@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ramesh-arjun.
-- 👀 I’m interested in software engineering and computer science education.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on projects related to educational software.
+- 👋 Hi, I’m Arjun Ramesh (@ramesh-arjun). I am a computer science student from Nebraska!
+- 👀 I’m interested in full-stack software engineering and computer science education.
+- 🌱 I’m currently learning and working on projects in Java, Python, Blazor, and C.
+- 💞️ My goal is to utilize software to make a positive customer impact and encourage individuals and businesses to stretch their potential.
 - 📫 How to reach me: arjun.ramesh16@gmail.com.
 
 <!---
